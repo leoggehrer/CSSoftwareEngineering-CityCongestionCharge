@@ -97,4 +97,5 @@ The following data model has been designed based on the business rules described
 
 ## Exercises
 
-1. [Unit testing](part-1-unit-testing)
+1. Unit testing
+2. 
